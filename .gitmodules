@@ -4,3 +4,6 @@
 [submodule "with-gfx/components/Adafruit-GFX-Library"]
 	path = with-gfx/components/Adafruit-GFX-Library
 	url = https://github.com/diplfranzhoepfinger/Adafruit-GFX-Library.git
+[submodule "with-gfx/components/Adafruit_BusIO"]
+	path = with-gfx/components/Adafruit_BusIO
+	url = https://github.com/diplfranzhoepfinger/Adafruit_BusIO.git
