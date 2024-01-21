@@ -3,10 +3,10 @@
 	url = https://github.com/diplfranzhoepfinger/ESP32-HUB75-MatrixPanel-DMA.git
 [submodule "with-gfx/components/Adafruit-GFX-Library"]
 	path = with-gfx/components/Adafruit-GFX-Library
-	url = https://github.com/diplfranzhoepfinger/Adafruit-GFX-Library.git
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
 [submodule "with-gfx/components/Adafruit_BusIO"]
 	path = with-gfx/components/Adafruit_BusIO
-	url = https://github.com/diplfranzhoepfinger/Adafruit_BusIO.git
+	url = https://github.com/adafruit/Adafruit_BusIO.git
 [submodule "with-gfx/components/arduino"]
 	path = with-gfx/components/arduino
-	url = https://github.com/diplfranzhoepfinger/arduino-esp32.git
+	url = https://github.com/espressif/arduino-esp32.git
